@@ -1,5 +1,5 @@
 ### Hi there 👋
-![welcome](https://jayantakumar.github.io/assets/img/DALL%C2%B7E%202023-01-08%2019.03.59.png|width = 100)
+![welcome](https://jayantakumar.github.io/assets/img/DALL%C2%B7E%202023-01-08%2019.03.59.png | width = 100)
 ```
 A poet of the computer’s art,
 I seek to understand systems, compilers, and networking.
