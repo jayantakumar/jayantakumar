@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![welcom](https://jayantakumar.github.io/assets/img/DALL%C2%B7E%202023-01-08%2019.03.59.png)
 <!--
 **jayantakumar/jayantakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
