@@ -1,4 +1,5 @@
 ## Hail, traveler! Thou art most welcome in our castle 👋
+![github-header-image](https://user-images.githubusercontent.com/10633768/212001042-c86ac38a-de36-4693-943b-297d2cd85a39.png)
 
 ```
 A poet of the computer’s art,
